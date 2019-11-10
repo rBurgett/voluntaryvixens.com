@@ -1,0 +1,28 @@
+{
+  "BACKGROUND_COLOR": "#fff",
+  "SITE_NAME": "Voluntary Vixens",
+  "SITE_URL": "https://voluntaryvixens.com",
+  "ITUNES_LINK": "https://podcasts.apple.com/us/podcast/voluntary-vixens/id1462676947",
+  "PATREON_LINK": "https://www.patreon.com/Vixens_Voluntary01",
+  "FACEBOOK_LINK": "https://www.facebook.com/Voluntary-Vixens-2436056929751494",
+  "TWITTER_LINK": "https://twitter.com/VixensVoluntary",
+  "META_DESCRIPTION": "Voluntary Vixens is a podcast offering a unique and female perspective into society, culture, and politics from a voluntary point of view. Jessie and Maddie want to tear down the barriers to freedom by keeping the discussion sane, peaceful and most importantly voluntary.",
+  "META_IMAGE": "vv-2000.jpg",
+  "META_IMAGE_WIDTH": "2000",
+  "META_IMAGE_HEIGHT": "2000",
+  "FB_APP_ID": "",
+  "MANAGING_EDITOR": "ryan@mlganetwork.com (Ryan Burgett)",
+  "WEBMASTER": "ryan@mlganetwork.com (Ryan Burgett)",
+  "COPYRIGHT": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License - http://creativecommons.org/licenses/by-nc/4.0/",
+  "LANGUAGE": "en",
+  "CATEGORIES": [
+    "News & Politics"
+  ],
+  "AUTHOR": "MLGA Network",
+  "EMAIL": "ryan@mlganetwork.com",
+  "ITUNES_CATEGORY": [
+    "News & Politics"
+  ],
+  "ITUNES_IMAGE": "vv-2000.jpg",
+  "ITUNES_EXPLICIT": false
+}
