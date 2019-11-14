@@ -1,10 +1,10 @@
 As discussed in the show:
 
-Check out [the Empress](http://instagram.com/empressofmeme) on the [eMilitia Podcast]!(https://www.youtube.com/channel/UCU_8tSomGGX-eBLl_lXhM3w)
+Check out [the Empress](http://instagram.com/empressofmeme) on the [eMilitia Podcast](https://www.youtube.com/channel/UCU_8tSomGGX-eBLl_lXhM3w)!
 
-The Empress’ [#RedPill Moment].(https://reason.com/2013/12/02/trial-begins-for-officers-accused-of-bea/)
+The Empress’ [#RedPill Moment](https://reason.com/2013/12/02/trial-begins-for-officers-accused-of-bea/).
 
-[Jessie’s Reading].(https://www.amazon.com/Discipline-Punish-Prison-Michel-Foucault/dp/0679752552)
+[Jessie’s Reading](https://www.amazon.com/Discipline-Punish-Prison-Michel-Foucault/dp/0679752552).
 
 The brilliant (so stunning, so brave) [Bob Murphy.](https://podcasts.apple.com/us/podcast/bob-murphy-show/id1441789978?i=1000430720357)
 
