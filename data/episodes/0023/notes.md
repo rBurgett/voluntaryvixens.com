@@ -1,6 +1,6 @@
 As discussed in the show:
 
-Check out the Empress on the [eMilitia Podcast]!(https://www.youtube.com/channel/UCU_8tSomGGX-eBLl_lXhM3w)
+Check out [the Empress](http://instagram.com/empressofmeme) on the [eMilitia Podcast]!(https://www.youtube.com/channel/UCU_8tSomGGX-eBLl_lXhM3w)
 
 The Empress’ [#RedPill Moment].(https://reason.com/2013/12/02/trial-begins-for-officers-accused-of-bea/)
 
