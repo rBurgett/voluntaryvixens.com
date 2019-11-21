@@ -13,3 +13,17 @@ Rodney Reed is set to be executed on November 20th despite evidence found that w
 [#FreeRossUlbricht](https://freeross.org/). That poor, optimistic guy is set to rot in a high security prison for the rest of his life for building a website (and in doing so, clearly upsetting the elites and the status quo). 
 
 [Learn more](https://tomwoods.com/ep-1031-lyn-ulbrichts-son-got-two-life-sentences-after-a-judicial-travesty-over-a-victimless-crime-what-happened-and-what-shes-doing-now/) about his story from the legendary Tom Woods.
+
+Contact:
+
+Patreon [https://www.patreon.com/Vixens_Voluntary01](https://www.patreon.com/Vixens_Voluntary01)
+
+IG [@voluntaryvixens](https://www.instagram.com/voluntaryvixens/)
+
+Twitter [@VixensVoluntary](https://twitter.com/VixensVoluntary)
+
+FB [https://www.facebook.com/Voluntary-Vixens-2436056929751494/?tn-str=k*F](https://www.facebook.com/Voluntary-Vixens-2436056929751494/?tn-str=k*F)
+
+Email at [voluntaryvixens@gmail.com](mailto:voluntaryvixens@gmail.com)
+
+Our home w/ the homies at [https://mlganetwork.com/](https://mlganetwork.com/)
