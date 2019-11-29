@@ -2,8 +2,8 @@ const Converter = require('mp3-to-video');
 const fs = require('fs-extra-promise');
 const path = require('path');
 const colors = require('colors');
-const Jimp = require('jimp');
-const sizeOf = require('image-size');
+// const Jimp = require('jimp');
+// const sizeOf = require('image-size');
 
 const fileExists = filePath => {
   try {
@@ -43,22 +43,23 @@ const generateVideos = async function() {
     const ext = 'mp4';
 
     for(const episode of episodes) {
-      const { IMAGE, FILE } = episode;
+      // const { IMAGE, FILE } = episode;
+      const { FILE } = episode;
       const mp3FilePath = path.join(mediaDir,'audio', FILE);
       const videoFilePath = path.join(videosDir, path.basename(FILE, '.mp3') + '.' + ext);
       if(fileExists(videoFilePath)) continue;
-      const origImagePath = path.join(mediaDir, 'images', IMAGE);
-      const tempImagePath = path.join(tempDir, IMAGE);
-      const dimensions = sizeOf(origImagePath);
-      const image = await Jimp.read(origImagePath);
-      await image
-        .crop(0, 0, dimensions.width - 20, dimensions.height)
-        .resize(800, Jimp.AUTO)
-        .cover(800, 450, Jimp.VERTICAL_ALIGN_MIDDLE)
-        .write(tempImagePath);
+      // const origImagePath = path.join(mediaDir, 'images', IMAGE);
+      // const tempImagePath = path.join(tempDir, IMAGE);
+      // const dimensions = sizeOf(origImagePath);
+      // const image = await Jimp.read(origImagePath);
+      // await image
+      //   .crop(0, 0, dimensions.width - 20, dimensions.height)
+      //   .resize(800, Jimp.AUTO)
+      //   .cover(800, 450, Jimp.VERTICAL_ALIGN_MIDDLE)
+      //   .write(tempImagePath);
       await new Promise((resolve, reject) => {
         console.log(`Generating Video for ${mp3FilePath}`);
-        const converter = new Converter(mp3FilePath, 'mp4', tempImagePath);
+        const converter = new Converter(mp3FilePath, 'mp4', path.resolve(__dirname, '..', 'media', 'images', 'vv_video_16x9.png'));
         converter.init(async function(err, res) {
           if(err) {
             reject(err);
@@ -69,7 +70,7 @@ const generateVideos = async function() {
           }
         });
       });
-      await fs.removeAsync(tempImagePath);
+      // await fs.removeAsync(tempImagePath);
     }
   } catch(err) {
     console.error(err);
