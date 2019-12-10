@@ -59,7 +59,7 @@ const generateVideos = async function() {
       //   .write(tempImagePath);
       await new Promise((resolve, reject) => {
         console.log(`Generating Video for ${mp3FilePath}`);
-        const begin = Date.now();
+        // const begin = Date.now();
         const converter = new Converter(mp3FilePath, 'mp4', path.resolve(__dirname, '..', 'media', 'images', 'vv_video_16x9.png'));
         converter.init(async function(err, res) {
           if(err) {
