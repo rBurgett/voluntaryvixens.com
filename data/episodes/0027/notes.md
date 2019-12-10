@@ -1,4 +1,10 @@
-Check out [Jon's Instagram](https://instagram.com/still_too_savage_for_statists).
+Links:
+
+[The Truth Disciple Podcast](https://podcasts.apple.com/us/podcast/thetruthdisciple/id1485579586?i=1000455501378)
+
+[King Leopold's Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa](https://www.amazon.com/dp/0618001905/ref=cm_sw_r_cp_api_i_eYY5DbG3XG6MA)
+
+[Black Rednecks and White Liberals](https://www.amazon.com/dp/1594031436/ref=cm_sw_r_cp_api_i_eZY5Db6PYTG9D)
 
 Contact:
 
