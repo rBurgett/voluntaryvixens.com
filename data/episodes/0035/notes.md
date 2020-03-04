@@ -1,6 +1,14 @@
 Notes:
 
-z
+WTF Cenk? [https://www.youtube.com/watch?v=Ssqjxt2m_Aw&t=21s](https://www.youtube.com/watch?v=Ssqjxt2m_Aw&t=21s)
+
+Also, Cenk's running for Congress LOL. [https://www.cenk2020.com](https://www.cenk2020.com)
+
+Friends Against Government Twitter [https://twitter.com/fagcast?lang=en](https://twitter.com/fagcast?lang=en)
+
+[https://chillderburg.com/](https://chillderburg.com/)
+
+Follow the event on Twitter: [https://twitter.com/chillderburg?lang=en](https://twitter.com/chillderburg?lang=en)
 
 Contact:
 
