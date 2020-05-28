@@ -29,7 +29,7 @@
     "commander": "^2.20.0",
     "eslint": "^5.15.3",
     "fs-extra-promise": "^1.0.1",
-    "handlebars": "^4.1.1",
+    "handlebars": "^4.3.0",
     "http-server": "^0.11.1",
     "image-size": "^0.7.3",
     "less-plugin-autoprefixer": "^2.0.0",
