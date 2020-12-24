@@ -1,10 +1,10 @@
-#Notes
+## Notes
 
 [Check out Jessica on Twitter!](https://twitter.com/LibtKitWitch)
 
 [Check out her YouTube Channel!](https://www.youtube.com/user/anitkithra)
 
-Contact:
+## Contact
 
 Patreon [https://www.patreon.com/Vixens_Voluntary01](https://www.patreon.com/Vixens_Voluntary01)
 

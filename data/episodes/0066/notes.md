@@ -1,10 +1,10 @@
 ## Notes
 
-[https://www.michaelmaharrey.com](https://www.michaelmaharrey.com)
+Rita Rogers on Instagram:
+[https://www.instagram.com/ritarogersco](https://www.instagram.com/ritarogersco)
 
-[https://www.godarchy.org/godarchy-podcast/](https://www.godarchy.org/godarchy-podcast/)
-
-[https://tenthamendmentcenter.com](https://tenthamendmentcenter.com)
+Her website:
+[https://ritarogersco.com](https://ritarogersco.com)
 
 ## Contact
 
