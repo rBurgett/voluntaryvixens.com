@@ -1,8 +1,12 @@
 ## Notes
 
-[Check out the Freckles and Britt Show!](https://youtube.com/channel/UCsfziec2Iwimt2y7UXr10uA)
+[Liberty or Lockdown](https://www.amazon.com/dp/1630692123/ref=cm_sw_r_cp_api_glt_fabc_67KM958K4VEAS91DJ90F)
 
-[Tweet at Britt!](https://twitter.com/TweetsByBritt)
+[Jeffrey Tucker on Twitter](https://twitter.com/jeffreyatucker)
+
+[American Institute for Economic Research](https://www.aier.org/)
+
+[The Dubious Origins Of The ‘Lockdown Strategy’ w/ Jeffrey Tucker](https://libertarianinstitute.org/mance/439/)
 
 ## Contact
 
