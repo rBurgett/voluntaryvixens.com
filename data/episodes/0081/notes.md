@@ -1,8 +1,10 @@
 ## Notes
 
-Follow her on Twitter: [https://twitter.com/JSzurmak](https://twitter.com/JSzurmak)
+Follow Bob on Twitter: [https://twitter.com/BobMurphyEcon](https://twitter.com/BobMurphyEcon)
 
-Check out her latest published piece, to which some of our discussion alludes: [https://thebreakthrough.org/journal/no-13-winter-2021/accentuating-the-negative](https://thebreakthrough.org/journal/no-13-winter-2021/accentuating-the-negative)
+Check out Bob's podcast here: [https://www.bobmurphyshow.com/](https://www.bobmurphyshow.com/)
+
+Get some free advice, books, and more over at his website: [https://consultingbyrpm.com/](https://consultingbyrpm.com/)
 
 ## Contact
 
