@@ -1,6 +1,6 @@
 ## Notes
 
-Support Danny and his business during these trying times by checking out his apparel site: [freedomoverfearusa.com](https://www.freedomoverfearusa.com)
+Find more about Adam Patrick and his show Yer Talkin Over Me! at his [website](https://yertalkinoverme.com/).
 
 ## Contact
 
