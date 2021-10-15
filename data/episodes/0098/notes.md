@@ -1,6 +1,6 @@
 ## Notes
 
-Listen to TechnoAgorist on [Odysee](https://odysee.com/@TechnoAgorist:8) or with your favorit podcatcher.
+Listen to TechnoAgorist on [Odysee](https://odysee.com/@TechnoAgorist:8) or with your favorite podcatcher.
 
 Find TechnoAgorist on [Twitter](https://twitter.com/TechnoAgorist).
 
