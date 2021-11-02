@@ -1,8 +1,8 @@
 ## Notes
 
-Find Cam on [Twitter]().
+Find Cam on [Twitter](https://twitter.com/CamHarless).
 
-Find Jessica on [Twitter]().
+Find Jessica on [Twitter](https://twitter.com/soupcanarchist).
 
 Find The Mad Ones:
 * [Website](https://wearethemadones.com)
