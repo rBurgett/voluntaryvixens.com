@@ -1,10 +1,8 @@
 ## Notes
 
-[Jeremy Kauffman on Twitter](https://twitter.com/jeremykauffman)
+[Scott Spaulding on Twitter](https://twitter.com/mdvet4)
 
-[Jeremy's campaign site](https://jeremy4nh.com/)
-
-[The Free State Project website](https://www.fsp.org/)
+[Defend the Guard](https://defendtheguard.us/index)
 
 ## Contact
 
