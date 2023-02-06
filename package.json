@@ -9,7 +9,7 @@
     "watch": "nodemon -w templates -e  -x \\\"npm run generate\\\"",
     "publish": "node ./scripts/clear-files && npm run generate && node ./scripts/publish",
     "scss": "npm run css-compile && npm run css-prefix && npm run css-minify",
-    "css-compile": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 scss/main.scss public/css/main.css",
+    "css-compile": "sass --style expanded --source-map --precision 6 scss/main.scss:public/css/main.css",
     "css-prefix": "postcss --replace \"public/css/main.css\"",
     "css-minify": "cleancss --level 1 --source-map --source-map-inline-sources --output public/css/main.min.css public/css/main.css"
   },
@@ -36,11 +36,11 @@
     "markdown-it": "^8.4.2",
     "moment": "^2.24.0",
     "mp3-to-video": "^1.0.3",
-    "node-sass": "^4.14.1",
     "nodemon": "^2.0.7",
     "podcast": "^1.1.0",
     "postcss-cli": "^7.1.2",
-    "s3": "https://github.com/rBurgett/node-s3-client.git"
+    "s3": "https://github.com/rBurgett/node-s3-client.git",
+    "sass": "^1.58.0"
   },
   "dependencies": {
     "express": "^4.16.4",
