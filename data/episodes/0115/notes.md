@@ -1,8 +1,6 @@
 ## Notes
 
-Check out Dave's show [here](https://open.spotify.com/show/6YXUHwp4GhTuTXgWXkpiPh?si=5c6216028809424f).
-
-Check out his [Twitter](https://twitter.com/DriveWithDavid) and [Instagram](https://www.instagram.com/themorningdrivepodcast/).
+Follow Dr. Mav’s work with [Liberty Speaks](https://libertyspeaks.world)
 
 ## Contact
 
