@@ -36,7 +36,7 @@
     "markdown-it": "^8.4.2",
     "moment": "^2.24.0",
     "mp3-to-video": "^1.0.3",
-    "nodemon": "^2.0.7",
+    "nodemon": "^2.0.20",
     "podcast": "^1.1.0",
     "postcss-cli": "^7.1.2",
     "s3": "https://github.com/rBurgett/node-s3-client.git",
